@@ -1,0 +1,1 @@
+Clustering -> embedding with TFIDF(title + desc) then clustering with hierarchy
